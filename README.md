@@ -35,3 +35,7 @@ Guía visual para aprender algoritmos de programación +25 algoritmos: visualgo.
 componentes UI de React: lemoinsqueezy.com/wedges
 
 Carrousel puro javascript: npm install embla-carousel
+
+API gratuita para saber la localizacion de una IP. (50.000 peticiones al mes) https://ipinfo.io
+
+crea imagenes espectaculares de tus proyectos : shots.so
